@@ -1,3 +1,15 @@
+# Project Name: Text Editor
+
+# Made With:
+- React.js
+- React Draft Wysiwyg (NPM Package)
+- JavaScript 
+- CSS
+- Visual Studio Code
+- Git & GitHub <br/>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
