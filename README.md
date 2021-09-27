@@ -1,5 +1,5 @@
 # Project Name: Text Editor
-
+This is a text editor made with React.js and Npm Package
 # Made With:
 - React.js
 - React Draft Wysiwyg (NPM Package)
