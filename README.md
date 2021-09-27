@@ -8,12 +8,6 @@ This is a text editor made with React.js and Npm Package
 - Visual Studio Code
 - Git & GitHub <br/>
 
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
