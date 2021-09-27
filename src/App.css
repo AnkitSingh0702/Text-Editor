@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.App {
+  text-align: center;
+}
+.background{
+  position: fixed;
+  width: 100%;
+  z-index: -10;
+}
+
+.h1{
+font-size: 3rem;
+ font-weight: bold;
+ color: rgb(201, 198, 198);
+}
